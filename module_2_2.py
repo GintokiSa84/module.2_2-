@@ -15,11 +15,3 @@ for i in range(len(numbers)):
 print('primes =',primes)
 print('primes =',not_primes)
 
-#for i in range(len(numbers)):
- #   val = numbers[i]
-  #  for j in range(2, val):
-   #      if val % j == 0 :
-    #        break
-   # else:
-    #    not_primes.append(val)
-#print('not_primes =', not_primes)
